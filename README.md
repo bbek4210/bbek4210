@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/bibekbh077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bibekbh077" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bibek bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibek bhandari" height="30" width="40" /></a>
-<a href="https://fb.com/bibek bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bibek bhandari" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100047717505359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bibek bhandari" height="30" width="40" /></a>
 <a href="https://instagram.com/bibek_bhandari_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibek_bhandari_10" height="30" width="40" /></a>
 </p>
 
