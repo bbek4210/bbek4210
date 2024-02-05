@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on [dreamghar-property listing](https://github.com/bbek4210/realestate.git)
 
-- 🌱 I’m currently learning **React,Php,JS**
+- 🌱 I’m currently learning **React,Nextjs,**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-sigma-bice-46.vercel.app](https://portfolio-sigma-bice-46.vercel.app)
 
-- 📫 How to reach me **bhandaribibek733@gmail.com**
+- 📫 How to reach me **bhandaribibek731@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
 
