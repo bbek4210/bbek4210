@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React,Nextjs,**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-sigma-bice-46.vercel.app](https://portfolio-sigma-bice-46.vercel.app)
+- 👨‍💻 All of my projects are available at [https://bbeks-portfolio.vercel.app/)
 
 - 📫 How to reach me **bhandaribibek731@gmail.com**
 
