@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bibekbh077" target="blank"><img src="https://img.shields.io/twitter/follow/bibekbh077?logo=twitter&style=for-the-badge" alt="bibekbh077" /></a> </p>
 
-- 🔭 I’m currently working on (https://https://zefe.xyz/)
+- 🔭 I’m currently working on [zefe](https://zefe.xyz/).
 
 - 👨‍💻 All of my projects are available at [https://bbeks-portfolio.vercel.app/)
 
