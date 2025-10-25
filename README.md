@@ -22,17 +22,33 @@
 
 ## 🛠 Tech Stack  
 
-### 💡 Core Expertise  
+### 💡 Frontend & UI  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,graphql,tailwind,typescript,javascript,html,css,php,laravel,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### 🧩 Frontend & API Integration  
-- **TanStack Query (React Query)** for efficient data fetching & caching  
-- **GraphQL** for scalable API integration  
-- **React Hook Form** for advanced form handling  
-- **TailwindCSS** for rapid, responsive UI design  
-- **REST API** + **Axios/Fetch** integration  
+### ⚡ API & Data Layer  
+<p>
+  <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
+
+### 🗄 Databases  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ☁ Deployment & Cloud  
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,aws" />
+</p>
 
 ### 🎨 Tools & Design  
 <p>
