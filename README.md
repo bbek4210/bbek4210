@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bibekbh077" target="blank"><img src="https://img.shields.io/twitter/follow/bibekbh077?logo=twitter&style=for-the-badge" alt="bibekbh077" /></a> </p>
 
-- 🔭 I’m currently working on [dreamghar-property listing](https://github.com/bbek4210/realestate.git)
-
-- 🌱 I’m currently learning **React,Nextjs,**
+- 🔭 I’m currently working on (https://https://zefe.xyz/)
 
 - 👨‍💻 All of my projects are available at [https://bbeks-portfolio.vercel.app/)
 
@@ -19,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bibekbh077" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bibekbh077" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bibek bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibek bhandari" height="30" width="40" /></a>
+<a href="https://twitter.com/bbek4210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bbek4210" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bibek-bhandari-233910268" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bibek bhandari" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100047717505359" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bibek bhandari" height="30" width="40" /></a>
 <a href="https://instagram.com/bibek_bhandari_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bibek_bhandari_10" height="30" width="40" /></a>
 </p>
