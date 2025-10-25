@@ -9,11 +9,10 @@
 
 - 🔭 I’m currently working on [zefe](https://zefe.xyz/).
 
-- 👨‍💻 All of my projects are available at [https://bbeks-portfolio.vercel.app/)
+- 👨‍💻All of my projects are available at [my portfolio](https://bbeks-portfolio.vercel.app/).
 
 - 📫 How to reach me **bhandaribibek731@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
