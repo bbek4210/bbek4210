@@ -3,7 +3,7 @@
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=150&section=header&text=👋%20Hi,%20I'm%20Bibek&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-### 💻 Frontend Developer | API Integrator | Lifelong Learner  
+### 💻 FullStack Developer | API Integrator | Lifelong Learner  
 
 *A builder who loves transforming ideas into interactive and scalable web experiences.*  
 
